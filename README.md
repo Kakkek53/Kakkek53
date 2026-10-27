@@ -16,5 +16,5 @@ Language: Russia
 
 Favorite game: DDNet
 
-I use ChatGPT for vibecode
+![ChatGPT](chatgpt.png) I use ChatGPT for vibecode
 
