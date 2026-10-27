@@ -10,3 +10,11 @@
 [BKW](https://t.me/BKW_clanBot)
 
 
+## About me:
+
+Language: Russia
+
+Favorite game: DDNet
+
+I use ChatGPT for vibecode
+
