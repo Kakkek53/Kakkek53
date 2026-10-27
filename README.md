@@ -16,5 +16,11 @@ Language: Russia
 
 Favorite game: DDNet
 
-![ChatGPT](chatgpt.png) I use ChatGPT for vibecode
+<table>
+  <tr>
+    <td><img src="chatgpt.png" width="24" alt="chatgpt"></td>
+    <td><b>I use ChatGPT for vibecode.</td>
+  </tr>
+</table>
+
 
